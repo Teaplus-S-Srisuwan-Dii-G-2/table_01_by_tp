@@ -1,0 +1,31 @@
+*
+table,th,td{
+    border: 3px solid black;
+    border-collapse: collapse;
+    margin-top: 60px;
+}
+
+table{
+    width: 100%;
+}
+
+td{
+    text-align: center;
+}
+
+td.main{
+    width: 70%;
+    padding: 30px 20px 30px 20px;
+}
+
+td.manu{
+    width: 15%;
+}
+
+td.img{
+    width: 15%;
+}
+
+body{
+    background: linear-gradient(#be7e75,#eea69d,#d8998f);
+}
