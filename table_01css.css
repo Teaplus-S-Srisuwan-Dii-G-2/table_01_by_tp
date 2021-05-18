@@ -11,3 +11,7 @@ table{
 th{
     height: 70px;
 }
+
+td{
+    padding: 10px;
+}
